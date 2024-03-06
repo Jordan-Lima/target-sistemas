@@ -1,0 +1,6 @@
+A - Sequência de número impares (1, 3, 5, 7, 9, 11...)
+B - Sequência dobrando o valor anterior (2, 4, 8, 16, 32, 64, 128, 256...)
+C - Sequência somando número anterior aos números impares ( 0, 1, 4, 9, 16, 25, 36, 49...)
+D - Não sei responder
+E - Sequência de Fibonacci (0,1,1,2,3,5,8,13,21)
+F - Não sei responder
